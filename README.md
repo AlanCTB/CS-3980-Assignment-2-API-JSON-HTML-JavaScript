@@ -7,4 +7,4 @@ Screenshots of my wesbite:
 ![Website](Images/website.png)
 
 Screenshot of the network, data being fetched from https://datausa.io/api/data?drilldowns=Nation&measures=Population:
-![Data](Images/Network.png)
+![Data](Images/network.png)
